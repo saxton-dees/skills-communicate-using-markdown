@@ -7,3 +7,13 @@
 
 
 ![Markdown logo](https://github.com/dcurtis/markdown-mark/blob/master/svg/markdown-mark.svg)
+
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
